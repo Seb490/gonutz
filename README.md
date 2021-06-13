@@ -1,2 +1,2 @@
-# go random
+# go nutz
 Playground for golang experiments
